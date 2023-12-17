@@ -18,7 +18,8 @@ Esta calculadora tiene como objetivo proporcionar una interfaz intuitiva y funci
 
 ¡Echa un vistazo a la interfaz de la aplicación!
 
-![Calculadora](https://raw.githubusercontent.com/jeanramirez-01/CalculadoraAndroid/main/app/src/main/res/drawable/calculadora.png)
+![Texto alternativo](https://github.com/jeanramirez-01/CalculadoraAndroid/blob/main/app/src/main/res/drawable/calculadora.png)
+
 
 
 ## Instalación
