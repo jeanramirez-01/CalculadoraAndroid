@@ -18,7 +18,7 @@ Esta calculadora tiene como objetivo proporcionar una interfaz intuitiva y funci
 
 ¡Echa un vistazo a la interfaz de la aplicación!
 
-_Inserta aquí algunas capturas de pantalla de la aplicación, mostrando su funcionamiento y diseño._
+![Texto alternativo](./drawable/calculadora.png)
 
 ## Instalación
 
